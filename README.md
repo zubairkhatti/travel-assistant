@@ -8,14 +8,14 @@ A sophisticated conversational AI assistant that helps users plan international 
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Technical Implementation](#technical-implementation)
-- [Sample Outputs](#sample-outputs)
+- [Overview](https://github.com/zubairkhatti/travel-assistant?tab=readme-ov-file#-overview)
+- [Features](https://github.com/zubairkhatti/travel-assistant?tab=readme-ov-file#-features)
+- [Architecture](https://github.com/zubairkhatti/travel-assistant?tab=readme-ov-file#%EF%B8%8F-architecture)
+- [Installation](https://github.com/zubairkhatti/travel-assistant?tab=readme-ov-file#-installation)
+- [Usage](https://github.com/zubairkhatti/travel-assistant?tab=readme-ov-file#-usage)
+- [Project Structure](https://github.com/zubairkhatti/travel-assistant?tab=readme-ov-file#-project-structure)
+- [Technical Implementation](https://github.com/zubairkhatti/travel-assistant?tab=readme-ov-file#-technical-implementation)
+- [Sample Outputs](https://github.com/zubairkhatti/travel-assistant?tab=readme-ov-file#-sample-outputs)
 
 ## 🎯 Overview
 
